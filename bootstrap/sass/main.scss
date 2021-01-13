@@ -1,0 +1,15 @@
+
+img{
+  width: 400px;
+}
+.tex{
+  width: 200px !important;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+button:focus{
+  border: none !important;
+  //box-shadow: none !important;
+  //outline: none;
+}
